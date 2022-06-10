@@ -1,0 +1,4 @@
+galaxy_info:
+  role_name: "tomcat"
+  author: "Learn DevOps Team"
+  description: "tomcat installation and configuration"
